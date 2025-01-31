@@ -495,6 +495,7 @@ _Autosuggest / autocomplete / typeahead_
 
 - [@anatoliygatt/heart-switch](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
 - [react-ios-switch](https://github.com/clari/react-ios-switch) - React switch component.
+- [A Guide to Building Dynamic Feature Toggling in React.js](https://www.permit.io/blog/dynamic-react-feature-toggling-2024-guide) - A guide on how to build a React Feature Toggling system with CASL and Permit.io.
 - [react-toggle](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
 - [ui-switch](https://github.com/yairEO/ui-switch) - The most complete _Toggle_ component
 
